@@ -7,3 +7,4 @@ Each compressed file include two files:
 
 Please place both files at the same directory and run the plot_result.m file to plot the PRBS voltage 
 and link position for selected voltage difference. 
+![CSS](https://github.com/Alij63/Position-and-stiffness-control-of-AVSA-/assets/157876575/877b3c9e-a42a-47fa-9078-860c00b8f1e9)
